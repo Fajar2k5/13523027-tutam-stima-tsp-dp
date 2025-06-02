@@ -131,3 +131,6 @@ Untuk menjalankan keenam _test cases_, jalankan ./test_all.sh
    7  10 8  9  6  4  0  5
    4  5  6  7  4  3  5  0
    ```
+Hasil test:
+
+![image](https://github.com/user-attachments/assets/f2efe163-849b-4c30-8468-a3f619ba2e31)
